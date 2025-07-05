@@ -1,34 +1,31 @@
-<h1>Hi, I'm Josh! <br/><a href="https://3cx.com">3CX VOIP </a> & <a href="https://www.linkedin.com/in/josh-h-b78813268/">I.T. Support Technician</a>
+<h1>Hi, I'm Josh!<br/><a>I.T. Technician aspiring to become a Network Engineer</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
-
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Labss)
-  
+<ul>
+  <li><b>PowerShell</b>
+    <ul>
+      <li><a href="https://github.com/cablecommander/User_Creation_Script" target="_blank">Active Directory User Creation Script</a> – Automates user creation in AD to reduce manual errors and save time.</li>
+    </ul>
+  </li>
+</ul>
 
 <h2>📄 Certifications:</h2>
+<ul>
+  <li><a href="https://portal.3cx.com/share/certificate/JTYLORDPLH" target="_blank">CompTIA Network+</a></li>
+  <li><a href="https://portal.3cx.com/share/certificate/JTYLORDPLH" target="_blank">3CX Advanced Certified Engineer V20</a></li>
+</ul>
 
+<h2>🧰 Technical Skills:</h2>
+<ul>
+  <li>Networking: VLANs, DHCP, DNS, IP Routing</li>
+  <li>Firewalls: pfSense, UniFi, SonicWall, OPNsense</li>
+  <li>Systems: Windows Server, Ubuntu Linux</li>
+  <li>Scripting: PowerShell, Bash</li>
+</ul>
 
-  - [3CX Advanced Certified Engineer V20](https://portal.3cx.com/share/certificate/JTYLORDPLH)
-  
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/-josh-hale/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" width="24" height="24" />
+</a>
 
-
-[linkedin]: https://www.linkedin.com/in/josh-h-b78813268/
-
-<!--
-**Tech-Wizard44/Tech-Wizard44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
