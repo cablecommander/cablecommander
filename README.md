@@ -18,7 +18,7 @@
 <h2>🧰 Technical Skills:</h2>
 <ul>
   <li>Networking: VLANs, DHCP, DNS, IP Routing</li>
-  <li>Firewalls: pfSense, UniFi, SonicWall, OPNsense</li>
+  <li>Firewalls: pfSense, SonicWall, OPNsense</li>
   <li>Systems: Windows Server, Ubuntu Linux</li>
   <li>Scripting: PowerShell, Bash</li>
 </ul>
