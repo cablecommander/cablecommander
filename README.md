@@ -1,10 +1,27 @@
-<h1>Hi, I'm Josh!<br/><a>I.T. Technician aspiring to become a Network Engineer</a></h1>
+<h1>Hi, I'm Josh!<br/><a>Aspiring Network Engineer</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 <ul>
-  <li><b>PowerShell</b>
+  <li><b>PowerShell / Batch</b>
     <ul>
       <li><a href="https://github.com/cablecommander/User_Creation_Script" target="_blank">Active Directory User Creation Script</a> – Automates user creation in AD to reduce manual errors and save time.</li>
+      <li><a href="https://github.com/cablecommander/Win11_Setup" target="_blank">Windows 11 Setup Script</a> – Automates Windows 11 Setup Tasks.</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><b>Website</b>
+    <ul>
+      <li><a href="https://joshuahale.tech="_blank">Career Website</a></li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><b>Network Setup Guides</b>
+    <ul>
+      <li><a href="https://github.com/cablecommander/OPNsense_HA">HA for OPNsense</a></li>
     </ul>
   </li>
 </ul>
@@ -28,4 +45,3 @@
 <a href="https://www.linkedin.com/in/-josh-hale/" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" width="24" height="24" />
 </a>
-
