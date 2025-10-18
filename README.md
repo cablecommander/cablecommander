@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh!<br/><a>Aspiring Network Engineer</a></h1>
+<h1>Hi, I'm Josh!<br/><a>IT Support Specialist</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 <ul>
