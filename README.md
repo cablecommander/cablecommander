@@ -13,7 +13,7 @@
 <ul>
   <li><b>Bash Scripts</b>
     <ul>
-      <li><a href="https://github.com/cablecommander/bash_hardener" target="_blank">Active Directory User Creation Script</a> – Automates a secure way to harden Ubuntu Server</li>
+      <li><a href="https://github.com/cablecommander/bash_hardener" target="_blank">Bash Hardening Script</a> – Automates a secure way to harden Ubuntu Server</li>
     </ul>
   </li>
 </ul>
