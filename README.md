@@ -36,6 +36,7 @@
 
 <h2>📄 Certifications:</h2>
 <ul>
+  <li><a href="https://portal.3cx.com/share/certificate/JTYLORDPLH" target="_blank">CompTIA Security+</a></li>
   <li><a href="https://portal.3cx.com/share/certificate/JTYLORDPLH" target="_blank">CompTIA Network+</a></li>
   <li><a href="https://portal.3cx.com/share/certificate/JTYLORDPLH" target="_blank">3CX Advanced Certified Engineer V20</a></li>
 </ul>
